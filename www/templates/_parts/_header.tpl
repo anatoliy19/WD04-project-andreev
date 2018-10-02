@@ -1,3 +1,3 @@
 <header>
-	<h1>This is page Header - _header.tpl</h1>
+	<h1>This is page header - header.tpl</h1>
 </header>
